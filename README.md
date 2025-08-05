@@ -72,6 +72,3 @@ print(tokenizer.decode(output[0], skip_special_tokens=True))
 - Data is flexible; you can use any instructions relevant to CRM.
 
 ---
-
-## License
-MIT License
